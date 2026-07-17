@@ -1,0 +1,153 @@
+string_id,pathway
+511145.b1779,Carbohydrate degradation
+511145.b1779,glycolysis
+511145.b1779,pyruvate from D-glyceraldehyde 3-phosphate: step 1/5. {ECO:0000305}
+511145.b2779,Carbohydrate degradation
+511145.b2779,glycolysis
+511145.b2779,pyruvate from D-glyceraldehyde 3-phosphate: step 4/5. {ECO:0000255|HAMAP-Rule:MF_00318}
+511145.b4015,Carbohydrate metabolism
+511145.b4015,glyoxylate cycle
+511145.b4015,(S)-malate from isocitrate: step 1/2. {ECO:0000305|PubMed:15748982}
+511145.b1094,Lipid metabolism
+511145.b1094,fatty acid biosynthesis. {ECO:0000255|HAMAP-Rule:MF_01217}
+511145.b2926,Carbohydrate degradation
+511145.b2926,glycolysis
+511145.b2926,pyruvate from D-glyceraldehyde 3-phosphate: step 2/5
+511145.b2096,Carbohydrate metabolism
+511145.b2096,D-tagatose 6-phosphate degradation
+511145.b2096,D-glyceraldehyde 3-phosphate and glycerone phosphate from D-tagatose 6-phosphate: step 2/2
+511145.b0755,Carbohydrate degradation
+511145.b0755,glycolysis
+511145.b0755,pyruvate from D-glyceraldehyde 3-phosphate: step 3/5. {ECO:0000255|HAMAP-Rule:MF_01039}
+511145.b4243,Amino-acid biosynthesis
+511145.b4243,L-isoleucine biosynthesis
+511145.b4243,2-oxobutanoate from L-threonine. {ECO:0000250|UniProtKB:Q7CP78}
+511145.b2414,Amino-acid biosynthesis
+511145.b2414,L-cysteine biosynthesis
+511145.b2414,L-cysteine from L-serine: step 2/2
+511145.b0903,Fermentation
+511145.b0903,pyruvate fermentation
+511145.b0903,formate from pyruvate: step 1/1
+511145.b2551,One-carbon metabolism
+511145.b2551,tetrahydrofolate interconversion. {ECO:0000255|HAMAP-Rule:MF_00051}
+511145.b2551,Amino-acid biosynthesis
+511145.b2551,glycine biosynthesis
+511145.b2551,"glycine from L-serine: step 1/1. {ECO:0000255|HAMAP-Rule:MF_00051, ECO:0000305}"
+511145.b1415,Carbohydrate degradation
+511145.b1415,"L-fucose degradation. {ECO:0000269|PubMed:3275622, ECO:0000269|PubMed:3298215}"
+511145.b1415,"L-rhamnose degradation. {ECO:0000269|PubMed:3275622, ECO:0000269|PubMed:3298215}"
+511145.b2095,Carbohydrate metabolism
+511145.b2095,D-tagatose 6-phosphate degradation
+511145.b2095,D-glyceraldehyde 3-phosphate and glycerone phosphate from D-tagatose 6-phosphate: step 2/2
+511145.b2925,Carbohydrate degradation
+511145.b2925,glycolysis
+511145.b2925,D-glyceraldehyde 3-phosphate and glycerone phosphate from D-glucose: step 4/4
+511145.b4177,Purine metabolism
+511145.b4177,AMP biosynthesis via de novo pathway
+511145.b4177,AMP from IMP: step 1/2. {ECO:0000255|HAMAP-Rule:MF_00011}
+511145.b3774,Amino-acid biosynthesis
+511145.b3774,L-isoleucine biosynthesis
+511145.b3774,"L-isoleucine from 2-oxobutanoate: step 2/4. {ECO:0000255|HAMAP-Rule:MF_00435, ECO:0000305|PubMed:2653423}"
+511145.b3774,L-valine biosynthesis
+511145.b3774,"L-valine from pyruvate: step 2/4. {ECO:0000255|HAMAP-Rule:MF_00435, ECO:0000305|PubMed:2653423}"
+511145.b3919,Carbohydrate biosynthesis
+511145.b3919,gluconeogenesis. {ECO:0000255|HAMAP-Rule:MF_00147}
+511145.b3919,Carbohydrate degradation
+511145.b3919,glycolysis
+511145.b3919,D-glyceraldehyde 3-phosphate from glycerone phosphate: step 1/1. {ECO:0000255|HAMAP-Rule:MF_00147}
+511145.b0008,Carbohydrate degradation
+511145.b0008,pentose phosphate pathway
+511145.b0008,D-glyceraldehyde 3-phosphate and beta-D-fructose 6-phosphate from D-ribose 5-phosphate and D-xylulose 5-phosphate (non-oxidative stage): step 2/3
+511145.b3829,Amino-acid biosynthesis
+511145.b3829,L-methionine biosynthesis via de novo pathway
+511145.b3829,L-methionine from L-homocysteine (MetE route): step 1/1. {ECO:0000255|HAMAP-Rule:MF_00172}
+511145.b4245,Pyrimidine metabolism
+511145.b4245,UMP biosynthesis via de novo pathway
+511145.b4245,"(S)-dihydroorotate from bicarbonate: step 2/3. {ECO:0000255|HAMAP-Rule:MF_00001, ECO:0000305|PubMed:13319326}"
+511145.b3831,Pyrimidine metabolism
+511145.b3831,UMP biosynthesis via salvage pathway
+511145.b3831,uracil from uridine (phosphorylase route): step 1/1
+511145.b1676,Carbohydrate degradation
+511145.b1676,glycolysis
+511145.b1676,pyruvate from D-glyceraldehyde 3-phosphate: step 5/5
+511145.b4014,Carbohydrate metabolism
+511145.b4014,glyoxylate cycle
+511145.b4014,(S)-malate from isocitrate: step 2/2
+511145.b2029,Carbohydrate degradation
+511145.b2029,pentose phosphate pathway
+511145.b2029,D-ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage): step 3/3. {ECO:0000305|PubMed:19686854}
+511145.b0728,Carbohydrate metabolism
+511145.b0728,tricarboxylic acid cycle
+511145.b0728,"succinate from succinyl-CoA (ligase route): step 1/1. {ECO:0000255|HAMAP-Rule:MF_00558, ECO:0000305|PubMed:10353839}"
+511145.b0474,Purine metabolism
+511145.b0474,AMP biosynthesis via salvage pathway
+511145.b0474,AMP from ADP: step 1/1. {ECO:0000255|HAMAP-Rule:MF_00235}
+511145.b2323,Lipid metabolism
+511145.b2323,"fatty acid biosynthesis. {ECO:0000305|PubMed:19679654, ECO:0000305|PubMed:8910376}"
+511145.b0118,Organic acid metabolism
+511145.b0118,propanoate degradation. {ECO:0000305|PubMed:12473114}
+511145.b0118,Carbohydrate metabolism
+511145.b0118,tricarboxylic acid cycle
+511145.b0118,isocitrate from oxaloacetate: step 2/2. {ECO:0000305|PubMed:12473114}
+511145.b1288,Lipid metabolism
+511145.b1288,fatty acid biosynthesis. {ECO:0000269|PubMed:7592873}
+511145.b1288,Cofactor biosynthesis
+511145.b1288,biotin biosynthesis. {ECO:0000305|PubMed:20693992}
+511145.b0729,Carbohydrate metabolism
+511145.b0729,tricarboxylic acid cycle
+511145.b0729,"succinate from succinyl-CoA (ligase route): step 1/1. {ECO:0000255|HAMAP-Rule:MF_01988, ECO:0000305|PubMed:10353839}"
+511145.b4139,Amino-acid metabolism. {ECO:0000305|PubMed:33012071}
+511145.b2498,Pyrimidine metabolism
+511145.b2498,UMP biosynthesis via salvage pathway
+511145.b2498,UMP from uracil: step 1/1
+511145.b3708,Amino-acid degradation
+511145.b3708,L-tryptophan degradation via pyruvate pathway
+511145.b3708,indole and pyruvate from L-tryptophan: step 1/1
+511145.b3433,Amino-acid biosynthesis
+511145.b3433,L-lysine biosynthesis via DAP pathway
+511145.b3433,(S)-tetrahydrodipicolinate from L-aspartate: step 2/4. {ECO:0000255|HAMAP-Rule:MF_02121}
+511145.b3433,L-methionine biosynthesis via de novo pathway
+511145.b3433,L-homoserine from L-aspartate: step 2/3. {ECO:0000255|HAMAP-Rule:MF_02121}
+511145.b3433,L-threonine biosynthesis
+511145.b3433,L-threonine from L-aspartate: step 2/5. {ECO:0000255|HAMAP-Rule:MF_02121}
+511145.b0415,Cofactor biosynthesis
+511145.b0415,riboflavin biosynthesis
+511145.b0415,riboflavin from 2-hydroxy-3-oxobutyl phosphate and 5-amino-6-(D-ribitylamino)uracil: step 1/2. {ECO:0000269|PubMed:8969176}
+511145.b0166,Amino-acid biosynthesis
+511145.b0166,L-lysine biosynthesis via DAP pathway
+511145.b0166,"LL-2,6-diaminopimelate from (S)-tetrahydrodipicolinate (succinylase route): step 1/3. {ECO:0000305|PubMed:6365916}"
+511145.b2913,Amino-acid biosynthesis
+511145.b2913,L-serine biosynthesis
+511145.b2913,L-serine from 3-phospho-D-glycerate: step 1/3
+511145.b2942,Amino-acid biosynthesis
+511145.b2942,S-adenosyl-L-methionine biosynthesis
+511145.b2942,"S-adenosyl-L-methionine from L-methionine: step 1/1. {ECO:0000255|HAMAP-Rule:MF_00086, ECO:0000269|PubMed:10551856, ECO:0000269|PubMed:10660564, ECO:0000269|PubMed:6251075, ECO:0000269|PubMed:7629147, ECO:0000269|PubMed:7629176, ECO:0000269|PubMed:9753435}"
+511145.b2914,Carbohydrate degradation
+511145.b2914,pentose phosphate pathway
+511145.b2914,D-ribose 5-phosphate from D-ribulose 5-phosphate (non-oxidative stage): step 1/1. {ECO:0000255|HAMAP-Rule:MF_00170}
+511145.b0720,Carbohydrate metabolism
+511145.b0720,tricarboxylic acid cycle
+511145.b0720,isocitrate from oxaloacetate: step 1/2
+511145.b0907,Amino-acid biosynthesis
+511145.b0907,L-serine biosynthesis
+511145.b0907,L-serine from 3-phospho-D-glycerate: step 2/3. {ECO:0000269|PubMed:2121717}
+511145.b0907,Cofactor biosynthesis
+511145.b0907,pyridoxine 5'-phosphate biosynthesis
+511145.b0907,pyridoxine 5'-phosphate from D-erythrose 4-phosphate: step 3/5. {ECO:0000269|PubMed:2121717}
+511145.b2508,Purine metabolism
+511145.b2508,XMP biosynthesis via de novo pathway
+511145.b2508,XMP from IMP: step 1/1. {ECO:0000255|HAMAP-Rule:MF_01964}
+511145.b2476,Purine metabolism
+511145.b2476,IMP biosynthesis via de novo pathway
+511145.b2476,5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide from 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate: step 1/2
+511145.b1093,Lipid metabolism
+511145.b1093,"fatty acid biosynthesis. {ECO:0000269|PubMed:14996818, ECO:0000269|PubMed:7592873}"
+511145.b3403,Carbohydrate biosynthesis
+511145.b3403,gluconeogenesis. {ECO:0000255|HAMAP-Rule:MF_00453}
+511145.b0727,Amino-acid degradation
+511145.b0727,L-lysine degradation via saccharopine pathway
+511145.b0727,glutaryl-CoA from L-lysine: step 6/6
+511145.b0954,Lipid metabolism
+511145.b0954,fatty acid biosynthesis
+511145.b1092,Lipid metabolism
+511145.b1092,fatty acid biosynthesis. {ECO:0000269|PubMed:1314802}

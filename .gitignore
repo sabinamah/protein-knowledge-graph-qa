@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+# Large raw downloads are reproducible from build_dataset.py
+data/raw/

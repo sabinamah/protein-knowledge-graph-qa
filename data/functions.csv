@@ -1,0 +1,646 @@
+string_id,go_id,go_name
+511145.b3495,GO:0042802,identical protein binding
+511145.b3495,GO:0042803,protein homodimerization activity
+511145.b3986,GO:0003729,mRNA binding
+511145.b3986,GO:0042803,protein homodimerization activity
+511145.b3986,GO:0043022,ribosome binding
+511145.b3986,GO:0003735,structural constituent of ribosome
+511145.b3339,GO:0005525,GTP binding
+511145.b3339,GO:0003924,GTPase activity
+511145.b3339,GO:0097216,guanosine tetraphosphate binding
+511145.b3339,GO:0000287,magnesium ion binding
+511145.b3339,GO:0003723,RNA binding
+511145.b3339,GO:0003746,translation elongation factor activity
+511145.b3980,GO:0005525,GTP binding
+511145.b3980,GO:0003924,GTPase activity
+511145.b3980,GO:0097216,guanosine tetraphosphate binding
+511145.b3980,GO:0000287,magnesium ion binding
+511145.b3980,GO:0003723,RNA binding
+511145.b3980,GO:0003746,translation elongation factor activity
+511145.b1779,GO:0004365,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+511145.b1779,GO:0042802,identical protein binding
+511145.b1779,GO:0051287,NAD binding
+511145.b1779,GO:0050661,NADP binding
+511145.b0440,GO:0003677,DNA binding
+511145.b0440,GO:0042802,identical protein binding
+511145.b0440,GO:0030527,structural constituent of chromatin
+511145.b1237,GO:0003681,bent DNA binding
+511145.b1237,GO:0001217,DNA-binding transcription repressor activity
+511145.b1237,GO:0042802,identical protein binding
+511145.b1237,GO:0003680,minor groove of adenine-thymine-rich DNA binding
+511145.b1237,GO:0046983,protein dimerization activity
+511145.b1237,GO:0003723,RNA binding
+511145.b1237,GO:0030527,structural constituent of chromatin
+511145.b1237,GO:0000976,transcription cis-regulatory region binding
+511145.b1677,GO:0042802,identical protein binding
+511145.b1677,GO:0008289,lipid binding
+511145.b1677,GO:0042834,peptidoglycan binding
+511145.b3236,GO:0030060,L-malate dehydrogenase (NAD+) activity
+511145.b3236,GO:0016615,malate dehydrogenase activity
+511145.b3236,GO:0016491,oxidoreductase activity
+511145.b3236,GO:0042803,protein homodimerization activity
+511145.b1823,GO:0003676,nucleic acid binding
+511145.b1823,GO:0042803,protein homodimerization activity
+511145.b1823,GO:0051087,protein-folding chaperone binding
+511145.b1823,GO:0003723,RNA binding
+511145.b1823,GO:0003697,single-stranded DNA binding
+511145.b1823,GO:0001072,"transcription antitermination factor activity, RNA binding"
+511145.b2779,GO:0042802,identical protein binding
+511145.b2779,GO:0000287,magnesium ion binding
+511145.b2779,GO:0004634,phosphopyruvate hydratase activity
+511145.b2779,GO:0042803,protein homodimerization activity
+511145.b4015,GO:0043169,cation binding
+511145.b4015,GO:0004451,isocitrate lyase activity
+511145.b4015,GO:0046872,metal ion binding
+511145.b3065,GO:0019843,rRNA binding
+511145.b3065,GO:0003735,structural constituent of ribosome
+511145.b1094,GO:0000035,acyl binding
+511145.b1094,GO:0000036,acyl carrier activity
+511145.b1094,GO:0008289,lipid binding
+511145.b1094,GO:0031177,phosphopantetheine binding
+511145.b4143,GO:0005524,ATP binding
+511145.b4143,GO:0016887,ATP hydrolysis activity
+511145.b4143,GO:0140662,ATP-dependent protein folding chaperone
+511145.b4143,GO:0042802,identical protein binding
+511145.b4143,GO:0016853,isomerase activity
+511145.b4143,GO:0000287,magnesium ion binding
+511145.b4143,GO:0051082,unfolded protein binding
+511145.b2926,GO:0043531,ADP binding
+511145.b2926,GO:0005524,ATP binding
+511145.b2926,GO:0097216,guanosine tetraphosphate binding
+511145.b2926,GO:0004618,phosphoglycerate kinase activity
+511145.b3341,GO:0003729,mRNA binding
+511145.b3341,GO:0019843,rRNA binding
+511145.b3341,GO:0003735,structural constituent of ribosome
+511145.b3341,GO:0000049,tRNA binding
+511145.b0957,GO:0042802,identical protein binding
+511145.b0957,GO:0015075,monoatomic ion transmembrane transporter activity
+511145.b0957,GO:0015288,porin activity
+511145.b2096,GO:0009025,tagatose-bisphosphate aldolase activity
+511145.b2096,GO:0008270,zinc ion binding
+511145.b3908,GO:0016209,antioxidant activity
+511145.b3908,GO:0003677,DNA binding
+511145.b3908,GO:0030145,manganese ion binding
+511145.b3908,GO:0046872,metal ion binding
+511145.b3908,GO:0042803,protein homodimerization activity
+511145.b3908,GO:0004784,superoxide dismutase activity
+511145.b3315,GO:0070180,large ribosomal subunit rRNA binding
+511145.b3315,GO:0003735,structural constituent of ribosome
+511145.b4000,GO:0003677,DNA binding
+511145.b4000,GO:0042802,identical protein binding
+511145.b4000,GO:0030527,structural constituent of chromatin
+511145.b2185,GO:0008097,5S rRNA binding
+511145.b2185,GO:0003735,structural constituent of ribosome
+511145.b3303,GO:0019843,rRNA binding
+511145.b3303,GO:0003735,structural constituent of ribosome
+511145.b3296,GO:0048027,mRNA 5'-UTR binding
+511145.b3296,GO:0000900,mRNA regulatory element binding translation repressor activity
+511145.b3296,GO:0019843,rRNA binding
+511145.b3296,GO:0003735,structural constituent of ribosome
+511145.b3298,GO:0019843,rRNA binding
+511145.b3298,GO:0003735,structural constituent of ribosome
+511145.b3298,GO:0000049,tRNA binding
+511145.b3314,GO:0003729,mRNA binding
+511145.b3314,GO:0019843,rRNA binding
+511145.b3314,GO:0003735,structural constituent of ribosome
+511145.b0605,GO:0032843,hydroperoxide reductase activity
+511145.b0605,GO:0042802,identical protein binding
+511145.b0605,GO:0102039,NADH-dependent peroxiredoxin activity
+511145.b0605,GO:0016684,"oxidoreductase activity, acting on peroxide as acceptor"
+511145.b0605,GO:0004601,peroxidase activity
+511145.b0605,GO:0008379,thioredoxin peroxidase activity
+511145.b4203,GO:0070180,large ribosomal subunit rRNA binding
+511145.b4203,GO:0003735,structural constituent of ribosome
+511145.b0014,GO:0043531,ADP binding
+511145.b0014,GO:0005524,ATP binding
+511145.b0014,GO:0016887,ATP hydrolysis activity
+511145.b0014,GO:0140662,ATP-dependent protein folding chaperone
+511145.b0014,GO:0031072,heat shock protein binding
+511145.b0014,GO:0044183,protein folding chaperone
+511145.b0014,GO:0051087,protein-folding chaperone binding
+511145.b0014,GO:0016989,sigma factor antagonist activity
+511145.b0014,GO:0051082,unfolded protein binding
+511145.b0014,GO:0008270,zinc ion binding
+511145.b3985,GO:0070180,large ribosomal subunit rRNA binding
+511145.b3985,GO:0043022,ribosome binding
+511145.b3985,GO:0003735,structural constituent of ribosome
+511145.b3317,GO:0003723,RNA binding
+511145.b3317,GO:0019843,rRNA binding
+511145.b3317,GO:0003735,structural constituent of ribosome
+511145.b3317,GO:0016740,transferase activity
+511145.b3317,GO:0008270,zinc ion binding
+511145.b3510,GO:0042802,identical protein binding
+511145.b3510,GO:0044183,protein folding chaperone
+511145.b3510,GO:0042803,protein homodimerization activity
+511145.b3510,GO:0051082,unfolded protein binding
+511145.b0023,GO:0008073,ornithine decarboxylase inhibitor activity
+511145.b0023,GO:0070181,small ribosomal subunit rRNA binding
+511145.b0023,GO:0003735,structural constituent of ribosome
+511145.b3305,GO:0070180,large ribosomal subunit rRNA binding
+511145.b3305,GO:0003735,structural constituent of ribosome
+511145.b2093,GO:0008982,protein-N(PI)-phosphohistidine-sugar phosphotransferase activity
+511145.b2093,GO:0090584,protein-phosphocysteine-galactitol-phosphotransferase system transporter activity
+511145.b3637,GO:0019843,rRNA binding
+511145.b3637,GO:0003735,structural constituent of ribosome
+511145.b3294,GO:0003735,structural constituent of ribosome
+511145.b4142,GO:0005524,ATP binding
+511145.b4142,GO:0042802,identical protein binding
+511145.b4142,GO:0046872,metal ion binding
+511145.b4142,GO:0044183,protein folding chaperone
+511145.b4142,GO:0051087,protein-folding chaperone binding
+511145.b4142,GO:0051082,unfolded protein binding
+511145.b3321,GO:0003735,structural constituent of ribosome
+511145.b3321,GO:0001072,"transcription antitermination factor activity, RNA binding"
+511145.b3321,GO:0000049,tRNA binding
+511145.b2417,GO:0016301,kinase activity
+511145.b2417,GO:0046872,metal ion binding
+511145.b3340,GO:0005525,GTP binding
+511145.b3340,GO:0003924,GTPase activity
+511145.b3340,GO:0097216,guanosine tetraphosphate binding
+511145.b3340,GO:0003746,translation elongation factor activity
+511145.b4202,GO:0048027,mRNA 5'-UTR binding
+511145.b4202,GO:0070181,small ribosomal subunit rRNA binding
+511145.b4202,GO:0003735,structural constituent of ribosome
+511145.b3308,GO:0008097,5S rRNA binding
+511145.b3308,GO:0003723,RNA binding
+511145.b3308,GO:0003735,structural constituent of ribosome
+511145.b3308,GO:0000049,tRNA binding
+511145.b4200,GO:0048027,mRNA 5'-UTR binding
+511145.b4200,GO:0070181,small ribosomal subunit rRNA binding
+511145.b4200,GO:0003735,structural constituent of ribosome
+511145.b0755,GO:0005524,ATP binding
+511145.b0755,GO:0097216,guanosine tetraphosphate binding
+511145.b0755,GO:0004619,phosphoglycerate mutase activity
+511145.b0755,GO:0042803,protein homodimerization activity
+511145.b3304,GO:0008097,5S rRNA binding
+511145.b3304,GO:0003735,structural constituent of ribosome
+511145.b3307,GO:0019843,rRNA binding
+511145.b3307,GO:0003735,structural constituent of ribosome
+511145.b3307,GO:0000049,tRNA binding
+511145.b3309,GO:0070180,large ribosomal subunit rRNA binding
+511145.b3309,GO:0003735,structural constituent of ribosome
+511145.b3984,GO:0003729,mRNA binding
+511145.b3984,GO:0019843,rRNA binding
+511145.b3984,GO:0003735,structural constituent of ribosome
+511145.b3984,GO:0000049,tRNA binding
+511145.b2609,GO:0004520,DNA endonuclease activity
+511145.b2609,GO:0000400,four-way junction DNA binding
+511145.b2609,GO:0016787,hydrolase activity
+511145.b2609,GO:0003735,structural constituent of ribosome
+511145.b3732,GO:0005524,ATP binding
+511145.b3732,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism"
+511145.b3732,GO:0046961,"proton-transporting ATPase activity, rotational mechanism"
+511145.b4243,GO:0120242,2-iminobutanoate deaminase activity
+511145.b4243,GO:0120243,2-iminopropanoate deaminase activity
+511145.b4243,GO:0019239,deaminase activity
+511145.b4243,GO:0042802,identical protein binding
+511145.b4243,GO:0051082,unfolded protein binding
+511145.b1136,GO:0097216,guanosine tetraphosphate binding
+511145.b1136,GO:0004450,isocitrate dehydrogenase (NADP+) activity
+511145.b1136,GO:0000287,magnesium ion binding
+511145.b1136,GO:0051287,NAD binding
+511145.b2414,GO:0004124,cysteine synthase activity
+511145.b2414,GO:0042802,identical protein binding
+511145.b2414,GO:0080146,L-cysteine desulfhydrase activity
+511145.b2414,GO:0042803,protein homodimerization activity
+511145.b2414,GO:0030170,pyridoxal phosphate binding
+511145.b2414,GO:0050272,S-carboxymethylcysteine synthase activity
+511145.b2414,GO:0016740,transferase activity
+511145.b3301,GO:0019843,rRNA binding
+511145.b3301,GO:0003735,structural constituent of ribosome
+511145.b0903,GO:0008861,formate C-acetyltransferase activity
+511145.b0170,GO:0005085,guanyl-nucleotide exchange factor activity
+511145.b0170,GO:0003746,translation elongation factor activity
+511145.b0170,GO:0008270,zinc ion binding
+511145.b1716,GO:0070180,large ribosomal subunit rRNA binding
+511145.b1716,GO:0003729,mRNA binding
+511145.b1716,GO:0000900,mRNA regulatory element binding translation repressor activity
+511145.b1716,GO:0003735,structural constituent of ribosome
+511145.b3310,GO:0070180,large ribosomal subunit rRNA binding
+511145.b3310,GO:0003735,structural constituent of ribosome
+511145.b2551,GO:0004372,glycine hydroxymethyltransferase activity
+511145.b2551,GO:0042802,identical protein binding
+511145.b2551,GO:0008732,L-allo-threonine aldolase activity
+511145.b2551,GO:0042803,protein homodimerization activity
+511145.b2551,GO:0030170,pyridoxal phosphate binding
+511145.b2551,GO:0008270,zinc ion binding
+511145.b3320,GO:0019843,rRNA binding
+511145.b3320,GO:0003735,structural constituent of ribosome
+511145.b3165,GO:0019843,rRNA binding
+511145.b3165,GO:0070181,small ribosomal subunit rRNA binding
+511145.b3165,GO:0003735,structural constituent of ribosome
+511145.b0169,GO:0003735,structural constituent of ribosome
+511145.b0169,GO:0008270,zinc ion binding
+511145.b3231,GO:0070180,large ribosomal subunit rRNA binding
+511145.b3231,GO:0048027,mRNA 5'-UTR binding
+511145.b3231,GO:0003729,mRNA binding
+511145.b3231,GO:0003735,structural constituent of ribosome
+511145.b3231,GO:0008270,zinc ion binding
+511145.b3983,GO:0070180,large ribosomal subunit rRNA binding
+511145.b3983,GO:0019843,rRNA binding
+511145.b3983,GO:0003735,structural constituent of ribosome
+511145.b0911,GO:0003729,mRNA binding
+511145.b0911,GO:0003723,RNA binding
+511145.b0911,GO:0003727,single-stranded RNA binding
+511145.b0911,GO:0003735,structural constituent of ribosome
+511145.b3319,GO:0003677,DNA binding
+511145.b3319,GO:0060698,endoribonuclease inhibitor activity
+511145.b3319,GO:0048027,mRNA 5'-UTR binding
+511145.b3319,GO:0001070,RNA-binding transcription regulator activity
+511145.b3319,GO:0019843,rRNA binding
+511145.b3319,GO:0003735,structural constituent of ribosome
+511145.b3319,GO:0030371,translation repressor activity
+511145.b1415,GO:0050569,glycolaldehyde dehydrogenase (NAD+) activity
+511145.b1415,GO:0042802,identical protein binding
+511145.b1415,GO:0008911,lactaldehyde dehydrogenase (NAD+) activity
+511145.b1415,GO:0004777,succinate-semialdehyde dehydrogenase (NAD+) activity
+511145.b2095,GO:0008047,enzyme activator activity
+511145.b2606,GO:0070180,large ribosomal subunit rRNA binding
+511145.b2606,GO:0003735,structural constituent of ribosome
+511145.b3312,GO:0019843,rRNA binding
+511145.b3312,GO:0003735,structural constituent of ribosome
+511145.b3316,GO:0019843,rRNA binding
+511145.b3316,GO:0003735,structural constituent of ribosome
+511145.b3316,GO:0000049,tRNA binding
+511145.b2665,GO:0030955,potassium ion binding
+511145.b3302,GO:0003735,structural constituent of ribosome
+511145.b3313,GO:0019843,rRNA binding
+511145.b3313,GO:0003735,structural constituent of ribosome
+511145.b3313,GO:0000049,tRNA binding
+511145.b4226,GO:0004427,inorganic diphosphate phosphatase activity
+511145.b4226,GO:0050355,inorganic triphosphate phosphatase activity
+511145.b4226,GO:0000287,magnesium ion binding
+511145.b4226,GO:0008270,zinc ion binding
+511145.b3306,GO:0019843,rRNA binding
+511145.b3306,GO:0003735,structural constituent of ribosome
+511145.b3230,GO:0003723,RNA binding
+511145.b3230,GO:0003735,structural constituent of ribosome
+511145.b3230,GO:0000049,tRNA binding
+511145.b1324,GO:0032843,hydroperoxide reductase activity
+511145.b1324,GO:0008379,thioredoxin peroxidase activity
+511145.b0623,GO:0003676,nucleic acid binding
+511145.b0623,GO:0008143,poly(A) binding
+511145.b0623,GO:0042803,protein homodimerization activity
+511145.b0623,GO:0003723,RNA binding
+511145.b0623,GO:0003697,single-stranded DNA binding
+511145.b0623,GO:0001072,"transcription antitermination factor activity, RNA binding"
+511145.b3342,GO:0034336,misfolded RNA binding
+511145.b3342,GO:0019843,rRNA binding
+511145.b3342,GO:0003735,structural constituent of ribosome
+511145.b3342,GO:0000049,tRNA binding
+511145.b3928,GO:0042802,identical protein binding
+511145.b3734,GO:0043531,ADP binding
+511145.b3734,GO:0005524,ATP binding
+511145.b3734,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism"
+511145.b1712,GO:0003677,DNA binding
+511145.b1712,GO:0001216,DNA-binding transcription activator activity
+511145.b1712,GO:0030527,structural constituent of chromatin
+511145.b1712,GO:0000976,transcription cis-regulatory region binding
+511145.b3636,GO:0003735,structural constituent of ribosome
+511145.b3636,GO:0000049,tRNA binding
+511145.b2579,GO:0008861,formate C-acetyltransferase activity
+511145.b0436,GO:0042802,identical protein binding
+511145.b0436,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+511145.b0436,GO:0044183,protein folding chaperone
+511145.b0436,GO:0043022,ribosome binding
+511145.b2925,GO:0004332,fructose-bisphosphate aldolase activity
+511145.b2925,GO:0042802,identical protein binding
+511145.b2925,GO:0042803,protein homodimerization activity
+511145.b2925,GO:0008270,zinc ion binding
+511145.b1482,GO:0004601,peroxidase activity
+511145.b1482,GO:0051920,peroxiredoxin activity
+511145.b1482,GO:0042803,protein homodimerization activity
+511145.b1241,GO:0008774,acetaldehyde dehydrogenase (acetylating) activity
+511145.b1241,GO:0004022,alcohol dehydrogenase (NAD+) activity
+511145.b1241,GO:0120542,ethanol dehydrogenase (NAD+) activity
+511145.b1241,GO:0008198,ferrous iron binding
+511145.b1241,GO:0042802,identical protein binding
+511145.b0812,GO:0003677,DNA binding
+511145.b0812,GO:0008199,ferric iron binding
+511145.b0812,GO:0042802,identical protein binding
+511145.b0812,GO:0016722,"oxidoreductase activity, acting on metal ions"
+511145.b1089,GO:0003735,structural constituent of ribosome
+511145.b3311,GO:0019843,rRNA binding
+511145.b3311,GO:0070181,small ribosomal subunit rRNA binding
+511145.b3311,GO:0003735,structural constituent of ribosome
+511145.b3311,GO:0008270,zinc ion binding
+511145.b4177,GO:0004019,adenylosuccinate synthase activity
+511145.b4177,GO:0005525,GTP binding
+511145.b4177,GO:0097216,guanosine tetraphosphate binding
+511145.b4177,GO:0000287,magnesium ion binding
+511145.b0811,GO:0016597,amino acid binding
+511145.b0811,GO:0070406,glutamine binding
+511145.b0811,GO:0015276,ligand-gated monoatomic ion channel activity
+511145.b3774,GO:0008677,2-dehydropantoate 2-reductase activity
+511145.b3774,GO:0042802,identical protein binding
+511145.b3774,GO:0004455,ketol-acid reductoisomerase activity
+511145.b3774,GO:0000287,magnesium ion binding
+511145.b3774,GO:0050661,NADP binding
+511145.b0114,GO:0042802,identical protein binding
+511145.b0114,GO:0000287,magnesium ion binding
+511145.b0114,GO:0060090,molecular adaptor activity
+511145.b0114,GO:0042803,protein homodimerization activity
+511145.b0114,GO:0004739,pyruvate dehydrogenase (acetyl-transferring) activity
+511145.b0114,GO:0036094,small molecule binding
+511145.b0114,GO:0030976,thiamine pyrophosphate binding
+511145.b3544,GO:0071916,dipeptide transmembrane transporter activity
+511145.b3544,GO:0020037,heme binding
+511145.b3544,GO:0042277,peptide binding
+511145.b3544,GO:1904680,peptide transmembrane transporter activity
+511145.b3295,GO:0003677,DNA binding
+511145.b3295,GO:0003899,DNA-directed RNA polymerase activity
+511145.b3295,GO:0046983,protein dimerization activity
+511145.b3919,GO:0042802,identical protein binding
+511145.b3919,GO:0004807,triose-phosphate isomerase activity
+511145.b0008,GO:0004801,transaldolase activity
+511145.b0008,GO:0016744,transketolase or transaldolase activity
+511145.b2150,GO:0005509,calcium ion binding
+511145.b2150,GO:0030246,carbohydrate binding
+511145.b2415,GO:0045152,antisigma factor binding
+511145.b2415,GO:0008047,enzyme activator activity
+511145.b2415,GO:0004857,enzyme inhibitor activity
+511145.b2415,GO:0030234,enzyme regulator activity
+511145.b2415,GO:0016775,"phosphotransferase activity, nitrogenous group as acceptor"
+511145.b3186,GO:0019843,rRNA binding
+511145.b3186,GO:0003735,structural constituent of ribosome
+511145.b3829,GO:0003871,5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity
+511145.b3829,GO:0008705,methionine synthase activity
+511145.b3829,GO:0008270,zinc ion binding
+511145.b1480,GO:0043024,ribosomal small subunit binding
+511145.b2310,GO:0016597,amino acid binding
+511145.b3297,GO:0070181,small ribosomal subunit rRNA binding
+511145.b3297,GO:0003735,structural constituent of ribosome
+511145.b4245,GO:0016597,amino acid binding
+511145.b4245,GO:0004070,aspartate carbamoyltransferase activity
+511145.b4245,GO:0042802,identical protein binding
+511145.b0116,GO:0004148,dihydrolipoyl dehydrogenase (NADH) activity
+511145.b0116,GO:0015036,disulfide oxidoreductase activity
+511145.b0116,GO:0050660,flavin adenine dinucleotide binding
+511145.b0116,GO:0042802,identical protein binding
+511145.b0116,GO:0008270,zinc ion binding
+511145.b4244,GO:0008270,zinc ion binding
+511145.b3185,GO:0043022,ribosome binding
+511145.b3185,GO:0019843,rRNA binding
+511145.b3185,GO:0003735,structural constituent of ribosome
+511145.b3185,GO:0000049,tRNA binding
+511145.b3703,GO:0003735,structural constituent of ribosome
+511145.b2518,GO:0005524,ATP binding
+511145.b2518,GO:0046872,metal ion binding
+511145.b2518,GO:0004550,nucleoside diphosphate kinase activity
+511145.b2094,GO:0016301,kinase activity
+511145.b2094,GO:0030295,protein kinase activator activity
+511145.b2094,GO:0090584,protein-phosphocysteine-galactitol-phosphotransferase system transporter activity
+511145.b3831,GO:0005524,ATP binding
+511145.b3831,GO:0042802,identical protein binding
+511145.b3831,GO:0030955,potassium ion binding
+511145.b3831,GO:0004850,uridine phosphorylase activity
+511145.b1243,GO:1900750,oligopeptide binding
+511145.b1243,GO:1904680,peptide transmembrane transporter activity
+511145.b1676,GO:0005524,ATP binding
+511145.b1676,GO:0042802,identical protein binding
+511145.b1676,GO:0016301,kinase activity
+511145.b1676,GO:0000287,magnesium ion binding
+511145.b1676,GO:0030955,potassium ion binding
+511145.b1676,GO:0004743,pyruvate kinase activity
+511145.b4014,GO:0004474,malate synthase activity
+511145.b2029,GO:0097216,guanosine tetraphosphate binding
+511145.b2029,GO:0042802,identical protein binding
+511145.b2029,GO:0050661,NADP binding
+511145.b2029,GO:0004616,phosphogluconate dehydrogenase (decarboxylating) activity
+511145.b2029,GO:0042803,protein homodimerization activity
+511145.b0728,GO:0005524,ATP binding
+511145.b0728,GO:0000287,magnesium ion binding
+511145.b0728,GO:0004775,succinate-CoA ligase (ADP-forming) activity
+511145.b0728,GO:0004776,succinate-CoA ligase (GDP-forming) activity
+511145.b3751,GO:0048029,monosaccharide binding
+511145.b0474,GO:0016208,AMP binding
+511145.b0474,GO:0004017,AMP kinase activity
+511145.b0474,GO:0005524,ATP binding
+511145.b0474,GO:0000287,magnesium ion binding
+511145.b0474,GO:0004550,nucleoside diphosphate kinase activity
+511145.b3609,GO:0070678,preprotein binding
+511145.b3609,GO:0051082,unfolded protein binding
+511145.b1920,GO:0016597,amino acid binding
+511145.b1920,GO:0015184,L-cystine transmembrane transporter activity
+511145.b1920,GO:0015276,ligand-gated monoatomic ion channel activity
+511145.b0912,GO:0003677,DNA binding
+511145.b0912,GO:0030527,structural constituent of chromatin
+511145.b2323,GO:0004315,3-oxoacyl-[acyl-carrier-protein] synthase activity
+511145.b1004,GO:0050660,flavin adenine dinucleotide binding
+511145.b1004,GO:0010181,FMN binding
+511145.b1004,GO:0042802,identical protein binding
+511145.b1004,GO:0051287,NAD binding
+511145.b1004,GO:0003955,NAD(P)H dehydrogenase (quinone) activity
+511145.b1004,GO:0050136,NADH dehydrogenase (quinone) (non-electrogenic) activity
+511145.b1004,GO:0050661,NADP binding
+511145.b1004,GO:0008753,NADPH dehydrogenase (quinone) activity
+511145.b0118,GO:0047456,2-methylisocitrate dehydratase activity
+511145.b0118,GO:0051539,"4 iron, 4 sulfur cluster binding"
+511145.b0118,GO:0003994,aconitate hydratase activity
+511145.b0118,GO:0046872,metal ion binding
+511145.b0118,GO:0003730,mRNA 3'-UTR binding
+511145.b0118,GO:0003729,mRNA binding
+511145.b1923,GO:0005198,structural molecule activity
+511145.b3988,GO:0003677,DNA binding
+511145.b3988,GO:0003899,DNA-directed RNA polymerase activity
+511145.b3988,GO:0000287,magnesium ion binding
+511145.b3988,GO:0008270,zinc ion binding
+511145.b1288,GO:0004318,enoyl-[acyl-carrier-protein] reductase (NADH) activity
+511145.b1288,GO:0042802,identical protein binding
+511145.b1288,GO:0070404,NADH binding
+511145.b0729,GO:0000166,nucleotide binding
+511145.b0729,GO:0004775,succinate-CoA ligase (ADP-forming) activity
+511145.b0729,GO:0004776,succinate-CoA ligase (GDP-forming) activity
+511145.b3781,GO:0030337,DNA polymerase processivity factor activity
+511145.b3781,GO:0015035,protein-disulfide reductase activity
+511145.b0172,GO:0043023,ribosomal large subunit binding
+511145.b4034,GO:0015144,carbohydrate transmembrane transporter activity
+511145.b4034,GO:1901982,maltose binding
+511145.b3098,GO:0043024,ribosomal small subunit binding
+511145.b4139,GO:0008797,aspartate ammonia-lyase activity
+511145.b4139,GO:0042802,identical protein binding
+511145.b2215,GO:0042802,identical protein binding
+511145.b2215,GO:0046872,metal ion binding
+511145.b2215,GO:0015288,porin activity
+511145.b2215,GO:0001618,virus receptor activity
+511145.b0178,GO:0042802,identical protein binding
+511145.b0178,GO:0001530,lipopolysaccharide binding
+511145.b0178,GO:0051082,unfolded protein binding
+511145.b2498,GO:0005525,GTP binding
+511145.b2498,GO:0097216,guanosine tetraphosphate binding
+511145.b2498,GO:0042802,identical protein binding
+511145.b2498,GO:0000287,magnesium ion binding
+511145.b2498,GO:0004845,uracil phosphoribosyltransferase activity
+511145.b3708,GO:0042802,identical protein binding
+511145.b3708,GO:0080146,L-cysteine desulfhydrase activity
+511145.b3708,GO:0016829,lyase activity
+511145.b3708,GO:0030955,potassium ion binding
+511145.b3708,GO:0030170,pyridoxal phosphate binding
+511145.b3708,GO:0009034,tryptophanase activity
+511145.b3433,GO:0004073,aspartate-semialdehyde dehydrogenase activity
+511145.b3433,GO:0051287,NAD binding
+511145.b3433,GO:0050661,NADP binding
+511145.b3433,GO:0046983,protein dimerization activity
+511145.b3649,GO:0001000,bacterial-type RNA polymerase core enzyme binding
+511145.b3649,GO:0003677,DNA binding
+511145.b3649,GO:0003899,DNA-directed RNA polymerase activity
+511145.b3509,GO:0051082,unfolded protein binding
+511145.b0415,GO:0000906,"6,7-dimethyl-8-ribityllumazine synthase activity"
+511145.b4069,GO:0003987,acetate-CoA ligase activity
+511145.b4069,GO:0016208,AMP binding
+511145.b4069,GO:0005524,ATP binding
+511145.b4069,GO:0046872,metal ion binding
+511145.b4069,GO:0050218,propionate-CoA ligase activity
+511145.b4069,GO:0033558,protein lysine deacetylase activity
+511145.b0166,GO:0008666,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase activity"
+511145.b0166,GO:0016779,nucleotidyltransferase activity
+511145.b2913,GO:0120568,(R)-2-hydroxyglutarate (NAD+) dehydrogenase activity
+511145.b2913,GO:0047545,(S)-2-hydroxyglutarate dehydrogenase activity
+511145.b2913,GO:0042802,identical protein binding
+511145.b2913,GO:0070403,NAD+ binding
+511145.b2913,GO:0070404,NADH binding
+511145.b2913,GO:0004617,phosphoglycerate dehydrogenase activity
+511145.b2913,GO:0070905,serine binding
+511145.b3203,GO:0043024,ribosomal small subunit binding
+511145.b3203,GO:0043022,ribosome binding
+511145.b1376,GO:0005524,ATP binding
+511145.b3987,GO:0003677,DNA binding
+511145.b3987,GO:0003899,DNA-directed RNA polymerase activity
+511145.b3987,GO:0032549,ribonucleoside binding
+511145.b0928,GO:0042802,identical protein binding
+511145.b0928,GO:0004069,L-aspartate:2-oxoglutarate aminotransferase activity
+511145.b0928,GO:0004838,L-tyrosine-2-oxoglutarate transaminase activity
+511145.b0928,GO:0042803,protein homodimerization activity
+511145.b0928,GO:0030170,pyridoxal phosphate binding
+511145.b2942,GO:0005524,ATP binding
+511145.b2942,GO:0042802,identical protein binding
+511145.b2942,GO:0000287,magnesium ion binding
+511145.b2942,GO:0004478,methionine adenosyltransferase activity
+511145.b2942,GO:0030955,potassium ion binding
+511145.b2914,GO:0042802,identical protein binding
+511145.b2914,GO:0042803,protein homodimerization activity
+511145.b2914,GO:0004751,ribose-5-phosphate isomerase activity
+511145.b1817,GO:0016301,kinase activity
+511145.b1817,GO:0042803,protein homodimerization activity
+511145.b1817,GO:0022870,protein-N(PI)-phosphohistidine-mannose phosphotransferase system transporter activity
+511145.b1817,GO:0008982,protein-N(PI)-phosphohistidine-sugar phosphotransferase activity
+511145.b0720,GO:0036440,citrate synthase activity
+511145.b0720,GO:0042802,identical protein binding
+511145.b0720,GO:0070404,NADH binding
+511145.b0115,GO:0004742,dihydrolipoyllysine-residue acetyltransferase activity
+511145.b0115,GO:0031405,lipoic acid binding
+511145.b0607,GO:0004017,AMP kinase activity
+511145.b0607,GO:0070733,AMPylase activity
+511145.b0607,GO:0042803,protein homodimerization activity
+511145.b0607,GO:0004672,protein kinase activity
+511145.b2416,GO:0042802,identical protein binding
+511145.b2416,GO:0016301,kinase activity
+511145.b2416,GO:0046872,metal ion binding
+511145.b2416,GO:0008965,phosphoenolpyruvate-protein phosphotransferase activity
+511145.b3870,GO:0005524,ATP binding
+511145.b3870,GO:0004356,glutamine synthetase activity
+511145.b3870,GO:0042802,identical protein binding
+511145.b3870,GO:0046872,metal ion binding
+511145.b4255,GO:0060698,endoribonuclease inhibitor activity
+511145.b4255,GO:0019899,enzyme binding
+511145.b4255,GO:0042803,protein homodimerization activity
+511145.b4255,GO:0008428,ribonuclease inhibitor activity
+511145.b2597,GO:0043024,ribosomal small subunit binding
+511145.b2597,GO:0019843,rRNA binding
+511145.b2614,GO:0000774,adenyl-nucleotide exchange factor activity
+511145.b2614,GO:0019904,protein domain specific binding
+511145.b2614,GO:0042803,protein homodimerization activity
+511145.b2614,GO:0051087,protein-folding chaperone binding
+511145.b2614,GO:0051082,unfolded protein binding
+511145.b0907,GO:0004648,O-phospho-L-serine:2-oxoglutarate aminotransferase activity
+511145.b0907,GO:0042803,protein homodimerization activity
+511145.b0907,GO:0030170,pyridoxal phosphate binding
+511145.b2508,GO:0005524,ATP binding
+511145.b2508,GO:1990829,C-rich single-stranded DNA binding
+511145.b2508,GO:0097216,guanosine tetraphosphate binding
+511145.b2508,GO:0042802,identical protein binding
+511145.b2508,GO:0003938,IMP dehydrogenase activity
+511145.b2508,GO:0046872,metal ion binding
+511145.b2508,GO:0003697,single-stranded DNA binding
+511145.b3942,GO:0004096,catalase activity
+511145.b3942,GO:0020037,heme binding
+511145.b3942,GO:0042802,identical protein binding
+511145.b3942,GO:0046872,metal ion binding
+511145.b3942,GO:0016491,oxidoreductase activity
+511145.b3942,GO:0004601,peroxidase activity
+511145.b2476,GO:0005524,ATP binding
+511145.b2476,GO:0097216,guanosine tetraphosphate binding
+511145.b2476,GO:0004639,phosphoribosylaminoimidazolesuccinocarboxamide synthase activity
+511145.b1093,GO:0004316,3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity
+511145.b1093,GO:0042802,identical protein binding
+511145.b1093,GO:0046872,metal ion binding
+511145.b1093,GO:0051287,NAD binding
+511145.b1093,GO:0050661,NADP binding
+511145.b1093,GO:0016616,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+511145.b3783,GO:0005524,ATP binding
+511145.b3783,GO:0008186,"ATP-dependent activity, acting on RNA"
+511145.b3783,GO:0004386,helicase activity
+511145.b3783,GO:0016787,hydrolase activity
+511145.b3783,GO:0042802,identical protein binding
+511145.b3783,GO:0003723,RNA binding
+511145.b4401,GO:0003700,DNA-binding transcription factor activity
+511145.b4401,GO:0001217,DNA-binding transcription repressor activity
+511145.b4401,GO:0042802,identical protein binding
+511145.b4401,GO:0000156,phosphorelay response regulator activity
+511145.b4401,GO:0000976,transcription cis-regulatory region binding
+511145.b1656,GO:0005506,iron ion binding
+511145.b1656,GO:0016491,oxidoreductase activity
+511145.b1656,GO:0004784,superoxide dismutase activity
+511145.b3517,GO:0004351,glutamate decarboxylase activity
+511145.b3517,GO:0030170,pyridoxal phosphate binding
+511145.b0525,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+511145.b3403,GO:0005524,ATP binding
+511145.b3403,GO:0005509,calcium ion binding
+511145.b3403,GO:0000287,magnesium ion binding
+511145.b3403,GO:0004612,phosphoenolpyruvate carboxykinase (ATP) activity
+511145.b0727,GO:0004149,dihydrolipoyllysine-residue succinyltransferase activity
+511145.b0727,GO:0031405,lipoic acid binding
+511145.b1905,GO:0008199,ferric iron binding
+511145.b1905,GO:0008198,ferrous iron binding
+511145.b1905,GO:0004322,ferroxidase activity
+511145.b1905,GO:0042802,identical protein binding
+511145.b1905,GO:0140315,iron ion sequestering activity
+511145.b0426,GO:0005524,ATP binding
+511145.b0426,GO:0005525,GTP binding
+511145.b0426,GO:0000166,nucleotide binding
+511145.b0426,GO:0000049,tRNA binding
+511145.b3349,GO:0050897,cobalt ion binding
+511145.b3349,GO:0005507,copper ion binding
+511145.b3349,GO:0016151,nickel cation binding
+511145.b3349,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+511145.b3349,GO:0051082,unfolded protein binding
+511145.b3349,GO:0008270,zinc ion binding
+511145.b3164,GO:0000175,3'-5'-RNA exonuclease activity
+511145.b3164,GO:0035438,cyclic-di-GMP binding
+511145.b3164,GO:0042802,identical protein binding
+511145.b3164,GO:0000287,magnesium ion binding
+511145.b3164,GO:0004654,polyribonucleotide nucleotidyltransferase activity
+511145.b3164,GO:0003723,RNA binding
+511145.b0471,GO:0003677,DNA binding
+511145.b0954,GO:0019171,(3R)-hydroxyacyl-[acyl-carrier-protein] dehydratase activity
+511145.b0954,GO:0042803,protein homodimerization activity
+511145.b0954,GO:0034017,trans-2-decenoyl-acyl-carrier-protein isomerase activity
+511145.b2687,GO:0005506,iron ion binding
+511145.b2687,GO:0043768,S-ribosylhomocysteine lyase activity
+511145.b1718,GO:0043022,ribosome binding
+511145.b1718,GO:0003723,RNA binding
+511145.b1718,GO:0003743,translation initiation factor activity
+511145.b3936,GO:0019843,rRNA binding
+511145.b3936,GO:0003735,structural constituent of ribosome
+511145.b3936,GO:0008270,zinc ion binding
+511145.b1092,GO:0004314,[acyl-carrier-protein] S-malonyltransferase activity
+511145.b2592,GO:0005524,ATP binding
+511145.b2592,GO:0016887,ATP hydrolysis activity
+511145.b2592,GO:0042802,identical protein binding
+511145.b0655,GO:0070335,aspartate binding
+511145.b0655,GO:0016595,glutamate binding
+511145.b0889,GO:0001216,DNA-binding transcription activator activity
+511145.b0889,GO:0001217,DNA-binding transcription repressor activity
+511145.b0889,GO:0042802,identical protein binding
+511145.b0889,GO:0043565,sequence-specific DNA binding
+511145.b0889,GO:0000976,transcription cis-regulatory region binding
