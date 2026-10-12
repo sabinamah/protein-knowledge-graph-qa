@@ -201,6 +201,36 @@ def _clean_cypher(text: str) -> str:
 
 
 # --------------------------------------------------------------------------- #
+# Backend: openai-compatible (vLLM / inference gateway / hosted API)
+# --------------------------------------------------------------------------- #
+def openai_compatible_to_cypher(question: str) -> str:
+    """Translate via any OpenAI-compatible chat endpoint.
+
+    The same /v1/chat/completions interface is served by a self-managed vLLM
+    server, an inference gateway, or a hosted API, so this one backend targets
+    all of them -- the endpoint and model are chosen entirely by config.
+    """
+    headers = {"Content-Type": "application/json"}
+    if C.OPENAI_API_KEY:
+        headers["Authorization"] = f"Bearer {C.OPENAI_API_KEY}"
+    resp = requests.post(
+        f"{C.OPENAI_BASE_URL.rstrip('/')}/chat/completions",
+        headers=headers,
+        json={
+            "model": C.OPENAI_MODEL,
+            "messages": [
+                {"role": "system", "content": SCHEMA + "\n" + CYPHER_INSTRUCTIONS},
+                {"role": "user", "content": question},
+            ],
+            "temperature": 0.0,
+        },
+        timeout=120,
+    )
+    resp.raise_for_status()
+    return _clean_cypher(resp.json()["choices"][0]["message"]["content"])
+
+
+# --------------------------------------------------------------------------- #
 # Dispatch
 # --------------------------------------------------------------------------- #
 def to_cypher(question: str, vocab: set[str]) -> tuple[str, str]:
@@ -212,6 +242,8 @@ def to_cypher(question: str, vocab: set[str]) -> tuple[str, str]:
         return anthropic_to_cypher(question), "anthropic:" + C.ANTHROPIC_MODEL
     if backend == "ollama":
         return ollama_to_cypher(question), "ollama:" + C.OLLAMA_MODEL
+    if backend in ("openai", "vllm", "openai_compatible"):
+        return openai_compatible_to_cypher(question), "openai:" + C.OPENAI_MODEL
     # default: template
     cypher, intent = template_to_cypher(question, vocab)
     return cypher, f"template:{intent}"

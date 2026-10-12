@@ -43,3 +43,10 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 ANTHROPIC_MODEL = os.getenv("ANTHROPIC_MODEL", "claude-sonnet-5")
 OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1")
+
+# --- OpenAI-compatible backend (vLLM, inference gateways, hosted APIs) ---
+# Works with any server exposing /v1/chat/completions: a self-managed vLLM
+# endpoint, a model gateway, or a hosted API. Select with LLM_BACKEND=openai.
+OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "http://localhost:8000/v1")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "Qwen2.5-7B-Instruct")

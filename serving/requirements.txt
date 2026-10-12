@@ -1,0 +1,6 @@
+# Serving layer (in addition to the repo's root requirements.txt)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.0
+mcp>=1.2,<2
+pytest>=8.0
